@@ -1,0 +1,26 @@
+.Navbar-container{
+  background-color: #fff;
+  padding: 20px;
+}
+.items {
+  margin-top: 5px;
+  list-style: none;
+  margin-right: 30px;
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+.items:hover{
+  color: rgb(33, 169, 184);
+}
+.name{
+  padding-left: 20px;
+  color: black;
+  font-family: initial
+}
+.navicon{
+  width: 100px;
+}

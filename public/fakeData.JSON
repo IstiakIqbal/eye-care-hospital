@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Myopia Treatments",
+        "description": "Myopia (also called nearsightedness) is the most common cause of impaired vision in people under age 40. In recent years, its prevalence is growing at an alarming rate. Globally, research suggests that in the year 2000, roughly 25 percent of the world's population was nearsighted but by the year 2050, it's expected that roughly half the people on the planet will be myopic. Myopia occurs when the eyeball is too long, relative to the focusing power of the cornea and lens of the eye. This causes light rays to focus at a point in front of the retina, rather than directly on its surface.Nearsightedness can also be caused by the cornea and/or lens being too curved for the length of the eyeball. In some cases, myopia occurs due to a combination of these factors. Myopia typically begins in childhood, and you may have a higher risk if your parents are nearsighted. In most cases, nearsightedness stabilizes in early adulthood but sometimes it continues to progress with age.",
+        "image": "https://i.ibb.co/WFLLVpM/Myopia-Treatments.jpg",
+        "id": 1
+    },
+    {
+        "name": "Dry Eye Treatment",
+        "description": "Dry eyes are a chronic lack of lubrication and moisture on the surface of the eye. An adequate and consistent layer of tears on the surface of the eye is essential to keep your eyes healthy, comfortable, and seeing well. Tears bathe the eye's surface to keep it moist and wash away dust, debris and microorganisms that could damage the cornea and lead to an eye infection. Each component of the tear film serves a critical purpose. For example, tear lipids help keep the tear film from evaporating too quickly and increase lubrication. Mucin helps anchor and spread the tears across the surface of the eye. The results of dry eyes range from subtle but constant eye irritation to significant inflammation. It may even lead to scarring of the front surface of the eye. In addition to these symptoms, dry eyes can cause inflammation and (sometimes permanent) damage to the surface of the eye.",
+        "image": "https://i.ibb.co/ct08Kc0/dry-eye-treatment.jpg",
+        "id": 2
+    },
+    {
+        "name": "Astigmatism Treatments",
+        "description": "Astigmatism is a common eye problem that can make your vision blurry or distorted. It happens when your cornea (the clear front layer of your eye) or lens (an inner part of your eye that helps the eye focus) has a different shape than normal.The only way to find out if you have astigmatism is to get an eye exam. Eyeglasses or contact lenses can help you see better — and some people can get surgery to fix their astigmatism. The most common treatments for astigmatism are eyeglasses or contact lenses. Your eye doctor will prescribe the right lenses to help you see as clearly as possible. Doctors can also use surgery to treat astigmatism. The surgery changes the shape of your cornea so that it can focus light correctly. If your astigmatism is mild, you may not need treatment. Your eye doctor can help you figure out if you need to get treated, and what type of treatment is best for you.",
+        "image": "https://i.ibb.co/10vPh8Z/Astigmatism-Treatments.jpg",
+        "id": 3
+    },
+    {
+        "name": "Refractive Lens Exchange",
+        "description": "Refractive lens exchange is a surgical procedure that replaces the natural lens of the eye with an artificial intraocular lens (IOL). The goal is to achieve sharper vision, reducing the need for glasses or contact lenses. Refractive lens exchange is usually done to correct for presbyopia or severe farsightedness when other procedures are not suitable. Lens replacement surgery also can correct nearsightedness but is often not recommended for nearsightedness when LASIK or other techniques are available. It is also known as lens replacement surgery. The procedure for refractive lens exchange is virtually identical to cataract surgery. The difference is that in RLE, the lens being replaced is clear, rather than a cloudy lens due to a cataract. As in cataract surgery, three types of IOLs are available to replace your natural lens, depending on your vision needs and the health of your eyes. They are:",
+        "image": "https://i.ibb.co/9YBssJw/Refractive-Lens-Exchange.jpg",
+        "id": 4
+    },
+    {
+        "name": "Cornea Transplant",
+        "description": "A cornea transplant (keratoplasty) is a surgical procedure to replace part of your cornea with corneal tissue from a donor. Your cornea is the transparent, dome-shaped surface of your eye. It's where light enters your eye and is a large part of your eye's ability to see clearly. A cornea transplant can restore vision, reduce pain, and improve the appearance of a damaged or diseased cornea. Most cornea transplant procedures are successful.But cornea transplant carries a small risk of complications, such as rejection of the donor cornea. A cornea transplant is most often used to restore vision to a person with a damaged cornea. A cornea transplant can also relieve pain or other signs and symptoms associated with cornea diseases.",
+        "image": "https://i.ibb.co/W6vjT7L/Cornea-Transplant.jpg",
+        "id": 5
+    },
+    {
+        "name": "Cataract Surgery",
+        "description": "Cataracts are when the lens of your eye, a small transparent disc, develops cloudy patches.When we're young, our lenses are usually like clear glass, allowing us to see through them.As we get older they start to become frosted, like bathroom glass, and begin to limit our vision. Cataracts most commonly affect adults as a result of ageing. Surgery is usually offered on the NHS if your cataracts are affecting your eyesight and quality of life. The decision to have surgery should not be based solely on your eye test (visual acuity) results. You may have other personal reasons for deciding to have surgery, such as your daily activities, hobbies and interests. You can choose to put off having surgery for a while and have regular check-ups to monitor the situation. There are no medicines or eye drops that have been proven to improve cataracts or stop them getting worse.",
+        "image": "https://i.ibb.co/HhbchMG/Cataract-Surgery.jpg",
+        "id": 6
+    },
+    {
+        "name": "ICL Surgery",
+        "description": "An implantable collamer lens (ICL) is an artificial lens that’s permanently implanted in the eye. The lens is used to treat: myopia (nearsightedness, hyperopia (farsightedness), astigmatism. Implanting an ICL requires surgery. A surgeon places the lens between the eye’s natural lens and colored iris. The lens works the eye’s existing lens to bend (refract) light on the retina, which produces clearer vision. The ICL is made of plastic and a collagen called collamer.It’s a type of phakic introcular lens. “Phakic” refers to how the lens is placed in the eye without taking out the natural lens. Though ICL surgery isn’t necessary to correct vision problems, it can eliminate or reduce the need for glasses or contact lenses. It’s also a possible alternative for people who can’t get laser eye surgery. But like most procedures, ICL surgery isn’t for everyone.",
+        "image": "https://i.ibb.co/f2LfSQM/ICL-Surgery.jpg",
+        "id": 7
+    },
+    {
+        "name": "Pterygium Surgery",
+        "description": "Pterygium surgery is a procedure performed to remove noncancerous conjunctiva growths (pterygia) from the eye. The conjunctiva is the clear tissue covering the white part of the eye and the inside of the eyelids. Some cases of a pterygium produce little to no symptoms. Severe overgrowth of conjunctiva tissue can cover the cornea and interfere with your vision. The pterygium surgery is a minimally invasive surgery. It generally takes no more than 30 to 45 minutes. Your doctor will most likely provide you with general guidelines to prepare for your pterygium surgery. You may be required to fast or only eat a light meal beforehand. In addition, if you wear contact lenses, you may be asked to not wear them for at least 24 hours before the procedure. Because you’ll be lightly sedated, doctors will require you to arrange transportation after the surgery, as you’ll be unable to drive yourself.",
+        "image": "https://i.ibb.co/1ft1rNQ/Pterygium-Surgery.jpg",
+        "id": 8
+    },
+    {
+        "name": "Lasic Eye Surgery",
+        "description": "LASIK eye surgery is the best known and most commonly performed laser refractive surgery to correct vision problems. Laser-assisted in situ keratomileusis (LASIK) can be an alternative to glasses or contact lenses.During LASIK surgery, a special type of cutting laser is used to precisely change the shape of the dome-shaped clear tissue at the front of your eye (cornea) to improve vision. In eyes with normal vision, the cornea bends (refracts) light precisely onto the retina at the back of the eye. But with nearsightedness (myopia), farsightedness (hyperopia) or astigmatism, the light is bent incorrectly, resulting in blurred vision. Glasses or contact lenses can correct vision, but reshaping the cornea itself also will provide the necessary refraction.",
+        "image": "https://i.ibb.co/PCLQbBZ/Lasic-Eye-Surgery.jpg",
+        "id": 9
+    },
+    {
+        "name": "Glaucoma surgeries",
+        "description": "Glaucoma is a group of eye diseases that can cause vision loss and blindness by damaging the nerve in the back of your eye called the optic nerve.This type of surgery is usually used to treat open-angle glaucoma. It’s done in a hospital and usually takes less than an hour. The surgeon will create a tiny opening in the top of your eye, under your eyelid where no one will see it. This opening allows extra fluid in your eye to drain away, lowering pressure in your eye. Usually, you’ll be awake during this surgery — but you’ll get numbing medicine and medicine to help you relax. You can usually go home the same day, but you’ll need someone to drive you home. In this operation, the surgeon implants a tiny tube, or shunt, onto the white of your eye. The tube helps extra fluid drain out of your eye, lowering your eye pressure.  ",
+        "image": "https://i.ibb.co/nw3qvFB/Glaucoma-surgeries.jpg",
+        "id": 10
+    },
+    {
+        "name": "Retina surgeries",
+        "description": "There are several procedures for repairing a damaged or detached retina, some of which may be used in combination. To create small scars that will fix a tear or hole and help hold your retina in place, the doctor may apply a freezing probe (cryopexy) or shine a laser to make a small burn (photocoagulation). In scleral buckle surgery, the surgeon places a tiny, flexible band around the white part of your eye (the sclera); this band gently pushes the sides of your eye toward your retina to help it reattach. In pneumatic retinopexy, the doctor injects a small air bubble into the middle of your eyeball to push your retina back into place before applying the freezing or burning treatment; the bubble will disappear on its own over time. A vitrectomy involves the use of a suction tool to remove most of the vitreous (the gel-like substance that fills the eye), allowing the surgeon better access to the retina and providing room for the bubble.",
+        "image": "https://i.ibb.co/y4L3yhT/Retina-surgeries.jpg",
+        "id": 11
+    },
+    {
+        "name": "Eye muscle surgery",
+        "description": "Strabismus is a condition in which the eyes don’t move together as a pair; one eye might drift in, out, up, or down. Surgery isn’t the only treatment option, but when it is needed, a surgeon attempts to restore the eye muscles to a proper position by using techniques that weaken or strengthen them. This could involve removing a section of muscle or reattaching a muscle to a different point in the eye.Eye muscle surgery may be done as an outpatient procedure at the Same Day Surgery Center at Children’s Hospital, Mercy Hospital, or Children's North Surgery Center",
+        "image": "https://i.ibb.co/M2cZSvf/Eye-muscle-surgery.jpg",
+        "id": 12
+    }
+]
