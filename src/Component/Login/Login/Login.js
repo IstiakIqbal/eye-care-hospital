@@ -1,22 +1,32 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Form, Button } from 'react-bootstrap';
+import useFirebase from '../../hooks/useFirebase';
 import useAuth from './../../hooks/useAuth';
-import { useState } from 'react';
 
-const handlePasswordChange = e => {
-    console.log(e.target.value)
-}
-const handleEmailChange = e => {
-    console.log(e.target.value)
-}
-
-const handleRegistration = e => {
-    console.log('kaj hoise bhai')
-    e.preventDefault();
-}
 
 const Login = () => {
-    const { signInUsingGoogle } = useAuth()
+    const {
+        handleGithubLogin,
+        handleUserLogin,
+        handleUserRegister
+    } = useFirebase();
+    const handlePasswordChange = e => {
+        setPassword(e.target.value)
+    }
+    const handleEmailChange = e => {
+        setEmail(e.target.value)
+    }
+
+    const handleRegistration = e => {
+        e.preventDefault();
+        handleUserRegister(email, password)
+    }
+    const handleLogin = () => {
+        handleUserLogin(email, password);
+    };
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
+    const { signInUsingGoogle, users } = useAuth()
     return (
         <div className="container my-5">
             <h1 className="text-primary">Please Login</h1>
@@ -36,12 +46,14 @@ const Login = () => {
                 <Form.Group className="mb-3" controlId="formBasicCheckbox">
                     {/* <Form.Check type="checkbox" label="Check me out" /> */}
                 </Form.Group>
-                <Button className="my-5" variant="primary" type="submit">
-                    Submit
+                <Button onSubmit={handleRegistration} className="my-5 mx-2" variant="primary" type="submit">
+                    Regester
                 </Button>
+                <button className="btn btn-success" >Login</button>
             </Form>
             <hr />
-            <button onClick={signInUsingGoogle} className="btn btn-warning mb-5" >Google Sign In</button>
+            <button onClick={signInUsingGoogle} className="btn btn-success m-3" >Google Sign In</button>
+            <button onClick={handleGithubLogin} className="btn btn-secondary m-3" >Github Sign In</button>
         </div>
     );
 };
