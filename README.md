@@ -1,6 +1,6 @@
 Live Site Link: https://eye-care-hospital-c3725.web.app/
 
-🅐 This is my health related website. I made it category as eye care hospital, which name is "Optician Eye Care"
+🅐 This is my health related website. I made it category as eye care hospital, which name is "MAYO Eye Care"
 
 🅑 Everyone needs to have their eyesight tested to check for vision and eye problems. Children usually have vision screening in school or at their health care provider's office during a checkup. Adults may also get vision screenings during their checkups. But many adults need more than a vision screening. They need a comprehensive dilated eye exam.
 
